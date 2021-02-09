@@ -18,7 +18,7 @@ Must present what the Cloud is, what the difference is compared to their old sys
 |-----|----------|-----------|
 |FashionParla Introduction|50%|Brief introduction|
 |Previous "legacy" system (On-Prem)|90%|Introduce what they *had*|
-|Cloud Migration Process|50|Briefly explain what was happening|
+|Cloud Migration Process|50%|Briefly explain what was happening|
 |New System|100%|Explain the new Cloud system|
 |Savings over 6-month period|100%|Compare savings using excel or related|
 
