@@ -22,7 +22,7 @@ Must present what the Cloud is, what the difference is compared to their old sys
 |Cloud Migration Process|50%|Briefly explain what was happening|
 |New System|100%|Explain the new Cloud system|
 |Savings over 6-month period|100%|Compare savings using excel or related|
-|Online Help for Fashion Parla|25%|Improve access for additional feedback features to public|
+|Online Help for FashionParla|25%|Improve access for additional feedback features to public|
 
 ## Audience
 CEO, CFO, CISO, and engineering team. 
